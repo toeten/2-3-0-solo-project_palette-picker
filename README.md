@@ -242,7 +242,7 @@ In order to see how well you're doing with this project, here are all the things
 - [ ] The form has a `button` to submit the form
 - [ ] There is an `h2` showing the palettes section
 - [ ] There is a `section` for the palettes
-- [ ] The form has a `ul` and `li` items that show each palette
+- [ ] The page has a `ul` and `li` items that show each palette
 - [ ] Each palette has the 3 colors clearly visible somehow
 - [ ] Each palette has white and black text overlaid on each of the colors
 - [ ] Each palette *somehow* has white and black border on each of the colors
